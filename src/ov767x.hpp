@@ -30,7 +30,6 @@ private:
 public:
   ov767x_handler();
 
-}
+};
 
 #endif
-
